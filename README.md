@@ -68,7 +68,7 @@ interest calculation, overdraft facilities, automated tasks for monthly interest
 
 # Snapshot
   - Below is a snapshot of the user login
-> [src/](https://github.com/NonyeP/Banking-App/blob/main/BankLogin.png)
+> [src/](https://github.com/NonyeP/Banking-App/BankLogin.png)
     
 # Installation Steps
 Follow these steps to install:
