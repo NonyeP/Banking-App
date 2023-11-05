@@ -12,6 +12,7 @@ is still under development.
   - Automated Tasks
   - Loan Management
   - User Login
+  - Snapshot
   - Installation
   - Usage
   - Contributing
@@ -65,6 +66,10 @@ interest calculation, overdraft facilities, automated tasks for monthly interest
   - The graphical user interface simulates a bank login portal with functionalities including account login,
     creation, and password management.
 
+# Snapshot
+  - Below is a snapshot of the user login
+> [src/](https://github.com/NonyeP/Banking-App/blob/main/BankLogin.png)
+    
 # Installation Steps
 Follow these steps to install:
 
